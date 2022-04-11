@@ -1,9 +1,9 @@
 # gym-wordle
 
-setup and data files copied from  [zach-lawless/gym-wordle](https://github.com/zach-lawless/gym-wordle)
+setup and data files copied from  [zach-lawless/gym-wordle](https://github.com/zach-lawless/gym-wordle). Note that all major files are *currently in transition*, we currently are trying to adapt the great work found in [this repo](https://github.com/andrewkho/wordle-solver).
 
 ## About
-To play one game of Wordle using a random agent run `main_kelly_v2.py`
+To play one game of Wordle using a random agent run `legacy/main_kelly_v2.py`
 
 ## Methodology
 
